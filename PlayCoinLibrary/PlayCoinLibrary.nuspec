@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>PlayCoin Library</title>
+    <authors>mufc723</authors>
+    <owners>mufc723</owners>
+    <licenseUrl>https://gitlab.com/Medachref.gharbi/PlayCoinLibrary</licenseUrl>
+    <projectUrl>https://gitlab.com/Medachref.gharbi/PlayCoinLibrary</projectUrl>
+    <iconUrl>https://gitlab.com/Medachref.gharbi/PlayCoinLibrary/raw/master/logowithtext.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library to interact with playcoin wallet in unity games .</description>
+    <releaseNotes>First Version.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Etherium Playcoin</tags>
+  </metadata>
+</package>

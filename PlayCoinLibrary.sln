@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCoinLibrary", "PlayCoinLibrary\PlayCoinLibrary.csproj", "{5C8D7719-C134-44F0-B230-5BAA23D1D4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCoinTester", "PlayCoinTester\PlayCoinTester.csproj", "{7573BE28-5D18-47CA-95AF-7BE8E14BB24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8D7719-C134-44F0-B230-5BAA23D1D4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8D7719-C134-44F0-B230-5BAA23D1D4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8D7719-C134-44F0-B230-5BAA23D1D4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8D7719-C134-44F0-B230-5BAA23D1D4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7573BE28-5D18-47CA-95AF-7BE8E14BB24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7573BE28-5D18-47CA-95AF-7BE8E14BB24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7573BE28-5D18-47CA-95AF-7BE8E14BB24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7573BE28-5D18-47CA-95AF-7BE8E14BB24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1F50A2-7F15-49EC-B29D-C18354F5D56A}
+	EndGlobalSection
+EndGlobal
